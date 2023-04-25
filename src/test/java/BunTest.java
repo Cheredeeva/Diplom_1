@@ -3,7 +3,6 @@ import org.junit.Test;
 import praktikum.Bun;
 
 public class BunTest {
-
     @Test
     public void getNameTest() {
         String expectedName = "bulochka";
